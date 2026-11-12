@@ -25,8 +25,8 @@ Can a song's popularity be predicted from its acoustic characteristics (danceabi
 ## Project Structure
 
 ```
-├── spotify1_formatted.ipynb          # Analysis: cleaning, EDA, modeling, error analysis
-├── spotify_api_documentation.ipynb   # Documentation and tests for the API
+├── spotify_EDA_Modelling.ipynb          # Analysis: cleaning, EDA, modeling, error analysis
+├── spotify_app_api_documentation.ipynb   # Documentation and tests for the API
 ├── app.py                            # FastAPI application
 ├── test_api.py                       # Smoke tests for the running API
 ├── requirements.txt                  # Python dependencies
